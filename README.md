@@ -1,5 +1,5 @@
 # Credit Risk Prediction 
-
+Link - https://your-credit-risk-analyzer.streamlit.app/
 A machine learning project to predict credit card default risk using real-world banking data.
 
 ## Problem Statement
